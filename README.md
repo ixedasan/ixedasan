@@ -124,7 +124,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ixedasan&theme=rogue&custom_title=Souleymane's%20Activity%20Graph&hide_border=true" />
+    <img alt="Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ixedasan&theme=rogue&custom_title=Ixedasan's%20Activity%20Graph&hide_border=true" />
   </a>
 </p>
 
