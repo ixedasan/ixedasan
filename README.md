@@ -137,8 +137,3 @@
     <img alt="Github Dev Quotes" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&border=true" /></a>
 </p>
 
-<h3>🕓 Recent Activities</h3>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
